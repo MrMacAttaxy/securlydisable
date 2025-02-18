@@ -1,1 +1,3 @@
-This project is made to disable securly which may not work for some people!
+# THIS IS A SKID
+## This is a skid of ExtHang3r
+## PLEASE USE https://github.com/Blobby-Boi/ExtHang3r
